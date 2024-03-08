@@ -1,0 +1,460 @@
+{\rtf1\ansi\ansicpg936\cocoartf2706
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \uc0\u33487 \u24030 \u39057 \u36947 ,#genre#\
+\uc0\u33487 \u24030 \u26032 \u38395 \u32508 \u21512 ,https://liveshowbak2.kan0512.com/norecord/tv_csztv1.m3u8\
+\uc0\u33487 \u24030 \u26032 \u38395 \u32508 \u21512 ,https://tylive.kan0512.com/norecord/norecord_csztv1.m3u8\
+\uc0\u33487 \u24030 \u31038 \u20250 \u32463 \u27982 ,https://tylive.kan0512.com/norecord/norecord_csztv2.m3u8\
+\uc0\u33487 \u24030 \u25991 \u21270 \u29983 \u27963 ,https://tylive.kan0512.com/norecord/norecord_csztv3.m3u8\
+\uc0\u33487 \u24030 \u30005 \u24433 \u23089 \u20048 ,https://liveshowbak2.kan0512.com/norecord/tv_csztv4.m3u8\
+\uc0\u33487 \u24030 \u29983 \u27963 \u36164 \u35759 ,https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8\
+\uc0\u33487 \u24030 4K\u39057 \u36947 ,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8\
+\
+\uc0\u22830 \u35270 \u39057 \u36947 ,#genre#\
+CCTV1,http://122.97.211.142:8114/FvSeid=605430ef14596959&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=7172&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_CBt=8010064&Fsv_otype=0&Provider_id=JSBC_iptv&Pcontent_id=C10000037@JSBC&Fsv_CMSID=704\
+CCTV2,http://157.0.143.37:8106/JSBC_iptv/C10000038@JSBC\
+CCTV3,http://157.0.143.37:8106/JSBC_iptv/C10000220@JSBC\
+CCTV4,http://157.0.143.37:8106/JSBC_iptv/C10000039@JSBC\
+CCTV5,http://122.97.211.133:8106/JSBC_iptv/C10000221@JSBC\
+CCTV5,http://122.97.211.149:8114/JSBC_iptv/C10000009@JSBC?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=7143&Provider_id=1&Pcontent_id=C10000009@JSBC\
+CCTV6,http://122.97.211.133:8106/JSBC_iptv/C10000222@JSBC\
+CCTV6,http://122.97.211.139:8114/JSBC_iptv/C10000018@JSBC?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=7153&Provider_id=1&Pcontent_id=C10000018@JSBC\
+CCTV7,http://122.97.211.136:8114/JSBC_iptv/C10000196@JSBC?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=426205&Provider_id=1&Pcontent_id=C10000196@JSBC\
+CCTV8,http://122.97.211.133:8106/JSBC_iptv/C10000223@JSBC\
+CCTV8,http://122.97.211.141:8114/JSBC_iptv/C10000020@JSBC?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=7154&Provider_id=1&Pcontent_id=C10000020@JSBC\
+CCTV5+,http://157.0.143.37:8106/JSBC_iptv/C10000040@JSBC\
+CCTV9,http://157.0.143.37:8106/JSBC_iptv/C10000042@JSBC\
+CCTV10,http://157.0.143.37:8106/JSBC_iptv/C10000119@JSBC\
+CCTV12,http://157.0.143.37:8106/JSBC_iptv/C10000120@JSBC\
+CCTV13,http://157.0.143.37:8106/JSBC_iptv/C10000232@JSBC\
+CCTV14,http://157.0.143.37:8106/JSBC_iptv/C10000121@JSBC\
+CCTV17,http://157.0.143.37:8106/JSBC_iptv/C10000041@JSBC\
+CETV1,http://157.0.143.37:8106/JSBC_iptv/C10000173@JSBC\
+\uc0\u30005 \u35270 \u25351 \u21335 ,http://157.0.143.37:8106/JSBC_iptv/C10000203@JSBC\
+\uc0\u39118 \u20113 \u36275 \u29699 ,http://157.0.143.37:8106/JSBC_iptv/C10000204@JSBC\
+\uc0\u39640 \u23572 \u22827 \u32593 \u29699 ,http://157.0.143.37:8106/JSBC_iptv/C10000205@JSBC\
+\uc0\u19990 \u30028 \u22320 \u29702 ,http://157.0.143.37:8106/JSBC_iptv/C10000206@JSBC\
+\uc0\u20853 \u22120 \u31185 \u25216 ,http://157.0.143.37:8106/JSBC_iptv/C10000207@JSBC\
+\uc0\u39118 \u20113 \u21095 \u22330 ,http://157.0.143.37:8106/JSBC_iptv/C10000208@JSBC\
+\uc0\u39118 \u20113 \u38899 \u20048 ,http://157.0.143.37:8106/JSBC_iptv/C10000211@JSBC\
+\uc0\u22899 \u24615 \u26102 \u23578 ,http://157.0.143.37:8106/JSBC_iptv/C10000212@JSBC\
+\uc0\u22830 \u35270 \u31934 \u21697 ,http://157.0.143.37:8106/JSBC_iptv/C10000209@JSBC\
+\uc0\u22830 \u35270 \u24576 \u26087 ,http://157.0.143.37:8106/JSBC_iptv/C10000210@JSBC\
+CCTV2,http://122.97.211.142:8114/FvSeid=605430ef14596959&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=7173&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_CBt=8010064&Fsv_otype=0&Provider_id=JSBC_iptv&Pcontent_id=C10000037@JSBC&Fsv_CMSID=704\
+CCTV5+,http://122.97.211.142:8114/FvSeid=605430ef14596959&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=7174&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_CBt=8010064&Fsv_otype=0&Provider_id=JSBC_iptv&Pcontent_id=C10000037@JSBC&Fsv_CMSID=704\
+\
+\uc0\u21355 \u35270 \u39057 \u36947 ,#genre#\
+\uc0\u27743 \u33487 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000015@JSBC\
+\uc0\u27743 \u33487 \u21355 \u35270 \u22791 ,http://157.0.143.37:8106/JSBC_iptv/C10000143@JSBC\
+\uc0\u28246 \u21335 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000043@JSBC\
+\uc0\u37329 \u40560 \u32426 \u23454 ,http://157.0.143.37:8106/JSBC_iptv/C10000187@JSBC\
+\uc0\u27993 \u27743 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000044@JSBC\
+\uc0\u19996 \u26041 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000045@JSBC\
+\uc0\u21271 \u20140 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000046@JSBC\
+\uc0\u24191 \u19996 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000047@JSBC\
+\uc0\u28145 \u22323 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000048@JSBC\
+\uc0\u23433 \u24509 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000192@JSBC\
+\uc0\u27827 \u21335 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000185@JSBC\
+\uc0\u40657 \u40857 \u27743 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000050@JSBC\
+\uc0\u23665 \u19996 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000049@JSBC\
+\uc0\u28246 \u21271 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000051@JSBC\
+\uc0\u22825 \u27941 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000052@JSBC\
+\uc0\u37325 \u24198 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000053@JSBC\
+\uc0\u22235 \u24029 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000167@JSBC\
+\uc0\u27743 \u35199 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000168@JSBC\
+\uc0\u19996 \u21335 \u21355 \u35270 ],http://157.0.143.37:8106/JSBC_iptv/C10000169@JSBC\
+\uc0\u21513 \u26519 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000170@JSBC\
+\uc0\u36149 \u24030 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000171@JSBC\
+\uc0\u27827 \u21271 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000172@JSBC\
+\uc0\u36797 \u23425 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000141@JSBC\
+\uc0\u24191 \u35199 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000198@JSBC\
+\uc0\u28023 \u21335 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000200@JSBC\
+\uc0\u20113 \u21335 \u21355 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000202@JSBC\
+\uc0\u33590 ,http://157.0.143.37:8106/JSBC_iptv/C10000160@JSBC\
+\uc0\u24555 \u20048 \u22402 \u38035 ,http://157.0.143.37:8106/JSBC_iptv/C10000142@JSBC\
+\uc0\u22909 \u20139 \u36141 \u29289 ,http://157.0.143.37:8106/JSBC_iptv/C10000230@JSBC\
+\uc0\u24191 \u19996 \u21355 \u35270 ,http://122.97.211.142:8114/FvSeid=605430ef14596959&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=7181&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_CBt=8010064&Fsv_otype=0&Provider_id=JSBC_iptv&Pcontent_id=C10000037@JSBC&Fsv_CMSID=704\
+\uc0\u19996 \u26041 \u21355 \u35270 ,http://122.97.211.142:8114/FvSeid=605430ef14596959&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=7182&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_CBt=8010064&Fsv_otype=0&Provider_id=JSBC_iptv&Pcontent_id=C10000037@JSBC&Fsv_CMSID=704\
+\uc0\u27743 \u33487 \u21355 \u35270 ,http://122.97.211.142:8114/FvSeid=605430ef14596959&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=7254&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_CBt=8010064&Fsv_otype=0&Provider_id=JSBC_iptv&Pcontent_id=C10000037@JSBC&Fsv_CMSID=704\
+\uc0\u30005 \u24433 \u39057 \u36947 ,http://122.97.211.142:8114/FvSeid=605430ef14596959&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=7336&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_CBt=8010064&Fsv_otype=0&Provider_id=JSBC_iptv&Pcontent_id=C10000037@JSBC&Fsv_CMSID=704\
+\
+\
+\uc0\u27743 \u33487 \u39057 \u36947 ,#genre#\
+\uc0\u27743 \u33487 \u22478 \u24066 ,http://157.0.143.37:8106/JSBC_iptv/C10000224@JSBC\
+\uc0\u27743 \u33487 \u20844 \u20849 \u26032 \u38395 ,http://157.0.143.37:8106/JSBC_iptv/C10000229@JSBC\
+\uc0\u27743 \u33487 \u25945 \u32946 ,http://157.0.143.37:8106/JSBC_iptv/C10000231@JSBC\
+\uc0\u27743 \u33487 \u20307 \u32946 \u20241 \u38386 ,http://157.0.143.37:8106/JSBC_iptv/C10000226@JSBC\
+\uc0\u27743 \u33487 \u24433 \u35270 ,http://157.0.143.37:8106/JSBC_iptv/C10000227@JSBC\
+\uc0\u27743 \u33487 \u32508 \u33402 ,http://157.0.143.37:8106/JSBC_iptv/C10000225@JSBC\
+\uc0\u20248 \u28459 \u21345 \u36890 ,http://157.0.143.37:8106/JSBC_iptv/C10000228@JSBC\
+\
+4K\uc0\u39057 \u36947 ,#genre#\
+CCTV1-16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+CCTV2-16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+CCTV3-4K[3840*2160],http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8\
+CCTV3-16M,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/PLTV/1/224/3221230912/1.m3u8\
+CCTV4-16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+CCTV5-16M,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw87480947_-1225841912/ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8?icpid=3&RTS=1674380202&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3\
+CCTV5+-16M,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1533622857_-1749657613/ott.mobaibox.com/PLTV/3/224/3221227502/index.m3u8?icpid=3&RTS=1674385944&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3\
+CCTV6-16M,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw92219307_2093744544/ott.mobaibox.com/PLTV/3/224/3221228123/index.m3u8?icpid=3&RTS=1674380207&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3\
+CCTV8-16M,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1535864683_104020061/ott.mobaibox.com/PLTV/3/224/3221227473/index.m3u8?icpid=3&RTS=1674385946&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3\
+CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8\
+CCTV16-4K,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3\
+CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221228314/index.m3u8\
+CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8\
+CCTV16-4K,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3\
+CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8\
+CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8\
+CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8\
+CCTV-8K,http://www.51romzj.fun/dll/diyroms/cctv8k.php\
+CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3\
+CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw3737653395_1580816352/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1678665935&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3\
+CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw3005294665_-433598957/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1668606389&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3\
+\uc0\u27743 \u33487 \u21355 \u35270 -16M,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8\
+\uc0\u19996 \u26041 \u21355 \u35270 -16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\uc0\u21271 \u20140 \u21355 \u35270 -16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\uc0\u22825 \u27941 \u21355 \u35270 -16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\uc0\u23433 \u24509 \u21355 \u35270 -16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\uc0\u23665 \u19996 \u21355 \u35270 -16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\uc0\u24191 \u19996 \u21355 \u35270 -16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\uc0\u27743 \u33487 \u21355 \u35270 -16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\uc0\u27993 \u27743 \u21355 \u35270 -16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\uc0\u28145 \u22323 \u21355 \u35270 -16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\uc0\u28246 \u21271 \u21355 \u35270 -16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\uc0\u28246 \u21335 \u21355 \u35270 -16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\uc0\u36797 \u23425 \u21355 \u35270 -16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\uc0\u40657 \u40857 \u27743 \u21355 \u35270 -16M,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\uc0\u32431 \u20139 4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/4/224/3221227506/index.m3u8\
+\uc0\u32431 \u20139 4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8\
+\uc0\u32431 \u20139 4K,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3\
+\uc0\u32431 \u20139 4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8\
+4K\uc0\u20462 \u22797 ,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3152427644_1112931372/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?icpid=3&RTS=1663233532&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3\
+\uc0\u29233 \u19978 4K,http://61.190.129.195:8686/udp/238.1.78.23:6112\
+\uc0\u29233 \u19978 4K,http://host.gaoxincloud.cn:4000/udp/239.109.205.53:8360\
+\uc0\u27426 \u31505 \u21095 \u22330 4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\
+\uc0\u25968 \u23383 \u39640 \u28165 ,#genre#\
+CHC\uc0\u39640 \u28165 \u30005 \u24433 ,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+CHC\uc0\u23478 \u24237 \u24433 \u38498 ,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+CHC\uc0\u21160 \u20316 \u30005 \u24433 ,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\uc0\u27714 \u32034 \u32426 \u24405 ,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3\
+\uc0\u27714 \u32034 \u31185 \u23398 ,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3\
+\uc0\u27714 \u32034 \u21160 \u29289 ,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3\
+\uc0\u27714 \u32034 \u29983 \u27963 ,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3\
+\uc0\u40657 \u33683 \u30005 \u24433 ,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8\
+\uc0\u40657 \u33683 \u21160 \u30011 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8\
+\uc0\u21714 \u21877 \u30005 \u31454 ,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8\
+\uc0\u21714 \u21877 \u36187 \u20107 ,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8\
+\uc0\u20048 \u28216 ,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\uc0\u32426 \u23454 \u20154 \u25991 ,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3\
+\uc0\u32431 \u20139 4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8\
+\uc0\u39118 \u20113 \u21095 \u22330 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8\
+\uc0\u39118 \u20113 \u38899 \u20048 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8\
+\uc0\u31532 \u19968 \u21095 \u22330 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8\
+\uc0\u22899 \u24615 \u26102 \u23578 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8\
+\uc0\u39118 \u20113 \u36275 \u29699 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8\
+\uc0\u20853 \u22120 \u31185 \u25216 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8\
+\uc0\u24576 \u26087 \u21095 \u22330 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8\
+\uc0\u19990 \u30028 \u22320 \u29702 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8\
+\uc0\u25991 \u21270 \u31934 \u21697 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8\
+\uc0\u22830 \u35270 \u21488 \u29699 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8\
+\uc0\u39640 \u23572 \u22827 \u32593 \u29699 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8\
+\uc0\u30005 \u35270 \u25351 \u21335 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8\
+\uc0\u37117 \u24066 \u21095 \u22330 ,http://[2409:8087:7000:20::F]:80/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221226581/index.m3u8\
+\uc0\u37329 \u33394 \u23398 \u22530 ,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002675/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\uc0\u21704 \u21704 \u28843 \u21160 ,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000005000031641/index.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3\
+\uc0\u28216 \u25103 \u39118 \u20113 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8\
+\uc0\u27426 \u31505 \u21095 \u22330 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8\
+\uc0\u19971 \u24425 \u25103 \u21095 ,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031116/index.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3\
+\uc0\u31532 \u19968 \u36130 \u32463 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8\
+\uc0\u27494 \u26415 \u19990 \u30028 ,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s\
+\uc0\u25991 \u29289 \u23453 \u24211 ,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ\
+\uc0\u26792 \u22253 \u39057 \u36947 ,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ\
+\uc0\u37325 \u28201 \u32463 \u20856 ,http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8\
+\uc0\u21170 \u29190 \u20307 \u32946 ,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3\
+\uc0\u22825 \u20803 \u22260 \u26827 ,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8\
+\uc0\u24328 \u22363 \u26149 \u31179 ,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\
+\uc0\u22269 \u38469 \u26102 \u20107 ,#genre#\
+\uc0\u20964 \u20976 \u20013 \u25991 ,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8\
+\uc0\u20964 \u20976 \u36164 \u35759 ,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8\
+\uc0\u20964 \u20976 \u39321 \u28207 ,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8\
+NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8\
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8\
+AlJazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8\
+Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8\
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8\
+RT Espa\'f1ol,https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8\
+RT Fran\'e7ais,https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8\
+RT Arabic,https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8\
+RT DE,https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8\
+RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8\
+RT Doc-\uc0\u1056 \u1091 \u1089 \u1089 \u1082 \u1080 \u1081 ,https://hls.rt.com/hls/rtdru360.m3u8\
+CGTN,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+CGTN Documentary,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+CGTN Fran\'e7ais,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+CGTN \uc0\u1056 \u1091 \u1089 \u1089 \u1082 \u1080 \u1081 ,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+CGTN Espa\'f1ol,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+CGTN \uc0\u1575 \u1604 \u1593 \u1585 \u1576 \u1610 \u1577 ,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\
+\uc0\u22830 \u35270 ipv6,#genre#\
+CCTV-1 \uc0\u32508 \u21512 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8\
+CCTV-2 \uc0\u36130 \u32463 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8\
+CCTV-3 \uc0\u32508 \u33402 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8\
+CCTV-4 \uc0\u20013 \u25991 \u22269 \u38469 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8\
+CCTV-5 \uc0\u20307 \u32946 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8\
+CCTV-5+ \uc0\u20307 \u32946 \u36187 \u20107 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8\
+CCTV-6 \uc0\u30005 \u24433 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8\
+CCTV-7 \uc0\u22269 \u38450 \u20891 \u20107 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8\
+CCTV-8 \uc0\u30005 \u35270 \u21095 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8\
+CCTV-9 \uc0\u32426 \u24405 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8\
+CCTV-10 \uc0\u31185 \u25945 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8\
+CCTV-11 \uc0\u25103 \u26354 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8\
+CCTV-12 \uc0\u31038 \u20250 \u19982 \u27861 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8\
+CCTV-13 \uc0\u26032 \u38395 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8\
+CCTV-14 \uc0\u23569 \u20799 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8\
+CCTV-15 \uc0\u38899 \u20048 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8\
+CCTV-16 \uc0\u22885 \u26519 \u21305 \u20811 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8\
+CCTV-17 \uc0\u20892 \u19994 \u20892 \u26449 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8\
+CCTV-4K \uc0\u36229 \u39640 \u28165 ,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8\
+CCTV-8K \uc0\u36229 \u39640 \u28165 ,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8\
+CHC\uc0\u21160 \u20316 \u30005 \u24433 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8\
+CHC\uc0\u23478 \u24237 \u24433 \u38498 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8\
+CHC\uc0\u39640 \u28165 \u30005 \u24433 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8\
+\uc0\u20853 \u22120 \u31185 \u25216 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8\
+\uc0\u24576 \u26087 \u21095 \u22330 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8\
+\uc0\u19990 \u30028 \u22320 \u29702 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8\
+\uc0\u25991 \u21270 \u31934 \u21697 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8\
+\uc0\u22830 \u35270 \u21488 \u29699 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8\
+\uc0\u22830 \u35270 \u39640 \u32593 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8\
+\uc0\u39118 \u20113 \u21095 \u22330 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8\
+\uc0\u39118 \u20113 \u38899 \u20048 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8\
+\uc0\u31532 \u19968 \u21095 \u22330 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8\
+\uc0\u22899 \u24615 \u26102 \u23578 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8\
+\uc0\u39118 \u20113 \u36275 \u29699 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8\
+\uc0\u30005 \u35270 \u25351 \u21335 ,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8\
+\
+\uc0\u21355 \u35270 ipv6,#genre#\
+\uc0\u20964 \u20976 \u20013 \u25991 ,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8\
+\uc0\u20964 \u20976 \u36164 \u35759 ,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8\
+\uc0\u20964 \u20976 \u39321 \u28207 ,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8\
+\uc0\u21271 \u20140 \u21355 \u35270 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8\
+\uc0\u28246 \u21335 \u21355 \u35270 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8\
+\uc0\u19996 \u26041 \u21355 \u35270 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8\
+\uc0\u22235 \u24029 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8\
+\uc0\u22825 \u27941 \u21355 \u35270 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/1.m3u8\
+\uc0\u23433 \u24509 \u21355 \u35270 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226196/1.m3u8\
+\uc0\u23665 \u19996 \u21355 \u35270 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/1.m3u8\
+\uc0\u24191 \u19996 \u21355 \u35270 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/1.m3u8\
+\uc0\u24191 \u35199 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8\
+\uc0\u27743 \u33487 \u21355 \u35270 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8\
+\uc0\u27743 \u35199 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8\
+\uc0\u27827 \u21271 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8\
+\uc0\u27827 \u21335 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8\
+\uc0\u27993 \u27743 \u21355 \u35270 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8\
+\uc0\u28023 \u21335 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8\
+\uc0\u28145 \u22323 \u21355 \u35270 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/1.m3u8\
+\uc0\u28246 \u21271 \u21355 \u35270 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/1.m3u8\
+\uc0\u23665 \u35199 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8\
+\uc0\u19996 \u21335 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8\
+\uc0\u36149 \u24030 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8\
+\uc0\u36797 \u23425 \u21355 \u35270 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/1.m3u8\
+\uc0\u37325 \u24198 \u21355 \u35270 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8\
+\uc0\u40657 \u40857 \u27743 \u21355 \u35270 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8\
+\uc0\u20869 \u33945 \u21476 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8\
+\uc0\u23425 \u22799 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8\
+\uc0\u38485 \u35199 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8\
+\uc0\u29976 \u32899 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8\
+\uc0\u21513 \u26519 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8\
+\uc0\u20113 \u21335 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8\
+\uc0\u19977 \u27801 \u21355 \u35270 ,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?\
+\uc0\u38738 \u28023 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8\
+\uc0\u26032 \u30086 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8\
+\uc0\u35199 \u34255 \u21355 \u35270 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/1.m3u8\
+\uc0\u20853 \u22242 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8\
+\uc0\u24310 \u36793 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8\
+\uc0\u22823 \u28286 \u21306 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8\
+\uc0\u23433 \u22810 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8\
+\uc0\u21414 \u38376 \u21355 \u35270 ,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8\
+\uc0\u24247 \u24052 \u21355 \u35270 ,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8\
+CETV-1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8\
+CETV-2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8\
+CETV-3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com\
+\
+\
+ipv4\uc0\u39057 \u36947 ,#genre#\
+CCTV-1 \uc0\u32508 \u21512 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8\
+CCTV-2 \uc0\u36130 \u32463 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8\
+CCTV-3 \uc0\u32508 \u33402 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8\
+CCTV-4 \uc0\u20013 \u25991 \u22269 \u38469 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8\
+CCTV-5 \uc0\u20307 \u32946 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8\
+CCTV-5+ \uc0\u20307 \u32946 \u36187 \u20107 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8\
+CCTV-6 \uc0\u30005 \u24433 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8\
+CCTV-7 \uc0\u22269 \u38450 \u20891 \u20107 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8\
+CCTV-8 \uc0\u30005 \u35270 \u21095 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8\
+CCTV-9 \uc0\u32426 \u24405 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8\
+CCTV-10 \uc0\u31185 \u25945 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8\
+CCTV-11 \uc0\u25103 \u26354 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8\
+CCTV-12 \uc0\u31038 \u20250 \u19982 \u27861 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8\
+CCTV-13 \uc0\u26032 \u38395 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8\
+CCTV-14 \uc0\u23569 \u20799 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8\
+CCTV-15 \uc0\u38899 \u20048 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8\
+CCTV-16 \uc0\u22885 \u26519 \u21305 \u20811 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8\
+CCTV-17 \uc0\u20892 \u19994 \u20892 \u26449 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8\
+\uc0\u23433 \u24509 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8\
+\uc0\u20853 \u22242 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8\
+\uc0\u21271 \u20140 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8\
+\uc0\u21345 \u37239 \u23569 \u20799 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8\
+BTV\uc0\u32426 \u23454 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8\
+CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8\
+CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8\
+CETV-3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8\
+CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8\
+\uc0\u37325 \u24198 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8\
+\uc0\u19996 \u26041 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8\
+\uc0\u19996 \u21335 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8\
+\uc0\u29976 \u32899 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8\
+\uc0\u24191 \u19996 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8\
+\uc0\u24191 \u35199 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8\
+\uc0\u36149 \u24030 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8\
+\uc0\u27827 \u21271 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8\
+\uc0\u40657 \u40857 \u27743 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8\
+\uc0\u27827 \u21335 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8\
+\uc0\u28246 \u21271 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8\
+\uc0\u28246 \u21335 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8\
+\uc0\u27743 \u33487 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8\
+\uc0\u27743 \u35199 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8\
+\uc0\u21513 \u26519 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8\
+\uc0\u36797 \u23425 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8\
+\uc0\u20869 \u33945 \u21476 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8\
+\uc0\u23425 \u22799 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8\
+\uc0\u38738 \u28023 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8\
+\uc0\u23665 \u19996 \u25945 \u32946 \u30005 \u35270 \u21488 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8\
+\uc0\u23665 \u19996 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8\
+\uc0\u23665 \u35199 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8\
+\uc0\u38485 \u35199 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8\
+\uc0\u28145 \u22323 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8\
+\uc0\u22235 \u24029 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8\
+\uc0\u22825 \u27941 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8\
+\uc0\u28023 \u21335 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8\
+\uc0\u26032 \u30086 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8\
+\uc0\u35199 \u34255 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8\
+\uc0\u24310 \u36793 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8\
+\uc0\u20113 \u21335 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8\
+\uc0\u27993 \u27743 \u21355 \u35270 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8\
+\
+\uc0\u28207 \u21488 \u39057 \u36947 ,#genre#\
+\uc0\u26080 \u32447 \u26032 \u38395 \u21488 ,https://cdn.ggapk.net/live/tv?id=ce42iWRo5REcOVS_nOBQC6OyMA5Jh5BO4CpinsiGg-QKlbnaunKvxgu4h0qZssdiOATxeQYv29jRjrAq2LOavczZeUFxPoXym8OROt1MLxsv6aXJyjiyyakfhhJdkRvKeiomQb6yk_0sZz_FPlcrsx7t6JtVmM_R3HtbIdt9PV4AyGEry11-jfmXIHObi6KFjQftYHZ2u8VMHf5MG0kXWTfVE0OuUzQDqu6SLVyxUP15VZceRrBydYcxyn3u1Eq3rFJUGLA8j465XuWABQTal-nwp7y5rasq_xlRUDFc3hfvP3ZWfHZbsIgQ-kzghuzVqbQVLaW7iu3B-esl5wnhoIyAkHK9uo6TUzPbI6YjYPwC2WiuILKy3VjM259kYUxW6AIQaSgB0Zf30Lm9r5FrBC6j2NPnQBZOKwu1HTwOzmuwrxiu3KQXL7oxetF9sWOx3BVMcQ7PDZDtEvdA4JRmoJqyyW2q9AAQWKP-Hyab7TzrWGpdGbSmvS88cFjLelJV1YIuzh6YRocAz2BQv-9cmSaQVADLh750exh4j05z9J09pmNAFidgNsISvk6-411vORCpPdtRfRWrDYiBsInz-4oEpV56Uoc0y4HLMeMX7sdEJbvkUYOGtR7x18nCVMBINTsr1WsXuCAkLu8&idp=99delaVSh-Znf0TyksQE_hrjF8CtMuLodmvYdHQq5Qq9MZoE1raPE8uI\
+RHK32,http://50.7.238.114:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33\
+RHK32,http://198.16.100.90:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd\
+\uc0\u19996 \u26862 \u26032 \u38395 ,https://cdn.ggapk.net/live/tv?id=66efeXu7RmD1KU2gggttdZT0PbFxnm8UQ50waCzgMBJr5iGaez0WCxxNJKTU4tWWZwp5E-u_bsa7-S9ix98YQy77XkS2zoDtlJeTer5PrYocLrg3XksCR2PzUpJw5CWmqvrx1ISiZ6kvKuLS8ILjSkeLz5Opbn8oSBXUPYbqsH1BTlDZKEM3wSpZDLxEwF-NL9uT41Ohi4Fq0JUblY02n6lTeoPRGAhbW7Gf_mLWbCsBTOki3zXaoKFV0Hm-cec__gprZf_U68FBPT0c4LcI9kOm6gcldm-izy_4x9rqyOIuXFIa_7wXZNBewvWKSwlh4gtUAXKh96oRZqagcQY0nNczQ9rEVG1n22-KQU1GbTorfO_GJ2JKhxup41y_KKNQYhgvwl8NE1S6GORNiMBYTDKbsi1TGwl11zDFL3VTI6x1vyFGpHJerWm2M03a2qxdNuiKIc_x1pIqWALIz1fGUzr8EmkxRRWxzx1PKASBBRT5bQJFseRjl3K0m06Bmx4UTP3-sOq2XsCuqQfy_no9kvfiu_cH5RX3P26qmVring5rR-lUZTMUbjvuSfr_QdMdgBDxt40N8m7BayvN2TcWr2pRjskp8-KKBvy830nQqGWoGL72g3d3lpXIPE_2u6yhJM8N-6Z4i9U2skI&idp=fbd7Cd-zDs7eWRSq3UpBdv9rAjRca7cj1FSgt_r1K0xxlhiUZyaL1v62\
+\uc0\u19996 \u26862 \u26032 \u38395 ,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c\
+\uc0\u19996 \u26862 \u26032 \u38395 ,http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3\
+TVBS HD,https://cdn.ggapk.net/live/tv?id=24cewaeL3pcFyZklQEbhCjJ3iHB_GrlY8Lt_4i7hUC_n6ZEki7Aj57HTjsvu6UPWBt7O7OL7-HnCKaqfYz4E6bzxrVU5FrIovEzpxup9OjTNueSUKC6epDUqnO5jWgPJYcCxeFf5ludDCZlX8AvEgVRq_hM02FaA7xGPhne1tGFplMlemBIOy_gW64kiZ_qWMPTx__ADtDZNBj6PmxXB5dJ18AU-N5L41YhTrzCYPd3v6kDIZvNJ9P8xnTZftLSWBX2ryDR2DwvfrQtMMIlWxiOHHw-vO3bzKocdiKGcNQIsbrp3e2mRC8yofdvGJJ2pneIF-_gviPyEXPmhdpkOKeo67gKGBCF0hCYjxIMIhzIFTdIDBHIfU2YFXrIN2JhOfoVRKUjjT2_wVr2wfC3_oCq261-VDJlgMVcrEtg1KuKGwCDFcwF1Njhx7uwHI5uY8ikMVOlZHAm2T4OBed_B78dThqi80qR89h9i6kYfQq4WKjdB-R521oYRMppW2LqTfTmMcT4wWS-kHot7oHiKMVPs3pZhtZHB-UDPZ7wsdkv-taz8LXaoU0y72m5NSkXblLOIGhWmKb9lx9b2hH7Dbghq7_ic_hw6V7QlnKOPgsWiz4KglobJperijeTIeP3Na5oKeadJGPzavdE&idp=edc45eydB_3igtiViNIAQ4zyvrER2lOkFzbut_DxYz6hbzRn50_pW4af\
+TVBS HD,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=ME2E6545230665452306&ct=19234&tsum=ff0df01c2935843c8c4543428728ce28\
+TVBS\uc0\u26032 \u38395 ,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8\
+TVBS\uc0\u26032 \u38395 ,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8\
+TVBS\uc0\u20122 \u27954 ,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8\
+\uc0\u22823 \u29233 \u30005 \u35270 ,http://50.7.238.114:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336\
+\uc0\u20844 \u35270 ,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0\
+\uc0\u21355 \u35270 \u20013 \u25991 \u21488 ,http://50.7.238.114:8278/weishichinese_twn/playlist.m3u8?ct=19226&tid=MA8A7894022878940228&tsum=c0323ce59263e0096d4181626874e17c\
+\uc0\u20013 \u35270 \u32463 \u20856 ,http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0\
+\uc0\u20013 \u22825 \u23089 \u20048 ,http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674\
+\uc0\u22823 \u29233 2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8\
+\uc0\u22823 \u31435 \u30005 \u35270 ,http://www.dalitv.com.tw:4568/live/dali/index.m3u8\
+\uc0\u30058 \u34223 \u21488 ,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8\
+\uc0\u21326 \u35821 \u30005 \u35270 ,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8\
+\uc0\u21488 \u35270 \u26032 \u38395 ,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8\
+\uc0\u27665 \u35270 \u26032 \u38395 ,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8\
+\
+\uc0\u22269 \u38469 \u39057 \u36947 ,#genre#\
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd\
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd\
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8\
+CNA,http://50.7.238.114:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0\
+CNN International,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8\
+CNN International,http://nv1connect.com:80/tamtam/tjfYkCbP3s/28606\
+CNN International,http://nv1connect.com:80/tamtam/tjfYkCbP3s/6943\
+CNN International,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8\
+\uc0\u21322 \u23707 \u26032 \u38395 \u65288 \u33521 \u35821 \u65289 ,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd\
+\uc0\u21322 \u23707 \u26032 \u38395 \u65288 \u33521 \u35821 \u65289 ,https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijdp\
+\uc0\u21322 \u23707 \u26032 \u38395 \u12300 \u38463 \u25289 \u20271 \u12301 ,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd\
+FOX\uc0\u26032 \u38395 ,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8\
+NASA NTV-1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd\
+NASA NTV-2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8\
+NASA TV Public (720p),https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8\
+BBC2,http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1\
+NHK\uc0\u19990 \u30028 ,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd\
+TRT\uc0\u19990 \u30028 ,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8\
+GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd\
+CBS News,http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda\
+CNBC,http://50.7.238.114:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60\
+\uc0\u26085 \u12486 \u12524 NEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8\
+DCCouncilChannel.htm,http://video.oct.dc.gov/out/u/15_12.m3u8\
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8\
+RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8\
+\uc0\u26397 \u40092 \u20013 \u22830 \u21488 ,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8\
+\uc0\u20420 \u32599 \u26031 \u20013 \u25991 ,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8\
+WOW TV,http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8\
+\
+\
+YouTube\uc0\u12300 P\u12301 ,#genre#\
+\uc0\u19977 \u31435 INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8\
+\uc0\u23536 \u23431 \u26032 \u38395 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8\
+\uc0\u19996 \u26862 \u36130 \u32463 \u26032 \u38395 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8\
+\uc0\u36816 \u36890 \u36130 \u32463 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8\
+\uc0\u20449 \u22823 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8\
+DW NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8\
+\uc0\u20013 \u35270 \u26032 \u38395 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8\
+ANN news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8\
+K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8\
+\uc0\u27665 \u35270 \u26032 \u38395 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8\
+CCTV4\uc0\u20013 \u25991 \u22269 \u38469 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8\
+\uc0\u20964 \u20976 \u36164 \u35759 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8\
+ABC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8\
+\uc0\u21488 \u35270 \u26032 \u38395 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8\
+\uc0\u22825 \u25165 \u20914 \u20914 \u20914 \u12300 \u32508 \u33402 \u12301 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8\
+ASTRO AWANI,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8\
+\uc0\u20013 \u22825 \u26032 \u38395 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8\
+Tokyo Shibuya\uc0\u12300 \u19996 \u20140 \u28073 \u35895 \u12301 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8\
+\uc0\u22823 \u29233 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8\
+TVBS\uc0\u32593 \u36335 \u26032 \u38395 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8\
+\uc0\u19977 \u31435 NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8\
+CBN NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8\
+\uc0\u20013 \u35270 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8\
+sky news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8\
+INDIA TODAY,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8\
+FRANCE 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8\
+NBC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8\
+\uc0\u20964 \u20976 \u20013 \u25991 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8\
+TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8\
+\uc0\u22823 \u29233 2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8\
+ANN NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8\
+\uc0\u20013 \u22825 \u26032 \u38395 \u12300 \u24490 \u29615 \u30452 \u25773 \u12301 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8\
+CNA,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8\
+HTB NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8\
+\uc0\u22269 \u20250 \u39057 \u36947 1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8\
+\uc0\u22269 \u20250 \u39057 \u36947 2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8\
+123 GO LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8\
+\uc0\u21322 \u23707 \u26032 \u38395 \u12300 \u33521 \u35821 \u12301 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8\
+KBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8\
+KANSAI NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8\
+\uc0\u19996 \u26862 \u24188 \u24188 \u27468 \u26354 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8\
+\uc0\u23567 \u29482 \u20329 \u22855 \u12300 \u21160 \u30011 \u12301 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8\
+\uc0\u21160 \u30011 1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8\
+\uc0\u21160 \u30011 2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8\
+\uc0\u20799 \u31461 \u27468 \u26354 1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8\
+\uc0\u20799 \u31461 \u27468 \u26354 2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8\
+\uc0\u38236 \u26032 \u38395 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8\
+Taiwan+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8\
+\
+\
+\
+\
+\
+\
+}
